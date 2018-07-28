@@ -1,7 +1,9 @@
 # Robofriends
 A responsive web application to search for robot friends among all.
 
-This project was bootstrapped with create-react-app with HTML5, CSS3, JavaScript, React, and tachyons.
+This project was created with HTML5, CSS3, JavaScript, React, tachyons, robohash API and jsonplaceholder API.
+
+You can view a live demo [here](https://github.com/jiaxuanc/robofriends).
 
 ## Table of Contents
 
@@ -36,7 +38,7 @@ robofriends
 ```
 
 ## Instructions
-In the project directory
+To run this app in local environment, in the project directory
   - first run `npm install` to install the dependencies
   - then run `npm start`
   - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
