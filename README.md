@@ -1,6 +1,7 @@
 # Robofriends
 A responsive web application to search for robot friends among all. 
-You can view a live demo and [here](https://jiaxuanc.github.io/robofriends).
+
+Deployed on GitHub Pages. You can view it [here](https://jiaxuanc.github.io/robofriends).
 
 This project was created with HTML5, CSS3, JavaScript, React, tachyons, robohash API and jsonplaceholder API.
 
