@@ -1,9 +1,9 @@
 # Robofriends
-A responsive web application to search for robot friends among all. 
+A single page application where the user can search for robot friends among all. 
 
 Deployed on GitHub Pages. You can view it [here](https://jiaxuanc.github.io/robofriends).
 
-This project was created with HTML5, CSS3, JavaScript, React, tachyons, robohash API and jsonplaceholder API.
+This project was created with HTML5, CSS3, JavaScript, React, Redux, tachyons, robohash API and jsonplaceholder API.
 
 ## Table of Contents
 
@@ -26,6 +26,9 @@ robofriends
 └── src
     ├── index.css
     ├── index.js
+    ├── constants.js
+    ├── actions.js
+    ├── reducers.js
     ├── registerServiceWorker.js
     ├── containers
     │   ├── App.css
@@ -35,7 +38,8 @@ robofriends
         ├── Card.js
         ├── CardList.js
         ├── Scroll.js
-        └── SearchBox.js
+        ├── SearchBox.js
+        └── ErrorBoundary.js
 ```
 
 ## Instructions
